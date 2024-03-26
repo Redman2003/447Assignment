@@ -12,7 +12,7 @@
 - The frontend relies on npm to start the app.
 - If npm is not already installed on your machine, you can install it by following the instructions for your operating system.
 - Once npm is installed, run the following command in the frontend directory:
-- In order to run the file go to the src file within enrollment_react and run "npm start"
+- In order to run the app go to the src file within enrollment_react and run "npm start"
 
 ## Database
 
