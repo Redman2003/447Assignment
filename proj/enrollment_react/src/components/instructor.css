@@ -1,0 +1,26 @@
+.form-container {
+    text-align: center; /* Center-align the form content horizontally */
+  }
+
+.delete_course{
+  text-align: center;
+}
+.delete_student{
+  text-align: center;
+}
+
+.delete_instructor{
+  text-align: center;
+}
+
+.update_instructor{
+  text-align: center;
+}
+
+.update_course{
+  text-align: center;
+}
+
+.update_student{
+  text-align: center;
+}
