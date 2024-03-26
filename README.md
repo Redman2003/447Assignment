@@ -1,10 +1,19 @@
-#Backend
-  -For the backend flask and flask_mysqldb will need to be installed
-  -If not already installed, run "pip install flask" or "pip install flask_mysqldb"
-#Frontend
-  -The frontend relies on npm to start the app. Can run "npm install" if not already on machine
-#Database
-  -MySQL configurator will be needed to start the database locally
-  -MySQL workbench will also be required as in the databas file there is a script to recreate the database under 'enrollment_db_copy.sql'
-  -It is also advisable to use MySQL CLI to check the updates of the tables
-  -Configuration will need to be changed on base.py for password used to access database. Make it the password used to start DB on MySQL confiugurator
+# Project Setup Instructions
+
+## Backend
+
+- To run the backend, Flask and flask_mysqldb need to be installed.
+- If not already installed, run the following commands:
+
+## Frontend
+
+- The frontend relies on npm to start the app.
+- If npm is not already installed on your machine, you can install it by following the instructions for your operating system.
+- Once npm is installed, run the following command in the frontend directory:
+
+## Database
+
+- MySQL configurator will be needed to start the database locally.
+- MySQL Workbench will also be required as the database file contains a script to recreate the database under 'enrollment_db_copy.sql'.
+- It is advisable to use MySQL CLI to check the updates of the tables.
+- Configuration changes will be needed in base.py for the password used to access the database. Make sure it matches the password used to start the database on MySQL configurator.
