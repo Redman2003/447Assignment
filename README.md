@@ -4,6 +4,8 @@
 
 - To run the backend, Flask and flask_mysqldb need to be installed.
 - If not already installed, run the following commands:
+  pip install flask
+  pip install flask_mysqldb
 
 ## Frontend
 
