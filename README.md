@@ -6,6 +6,7 @@
 - If not already installed, run the following commands:
   - "pip install flask" or "pip install flask_mysqldb"
 - Backend can be ran through VScode
+- Backend file can be found in enrollment_react\backend\base.py
 
 ## Frontend
 
